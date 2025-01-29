@@ -7,6 +7,11 @@
 - Dont take things to serious - its public information after all. 
 - Big thanks goes out to cursor, my mom and all my stalkers.
 
+# - Print screens of the nodes
+
+![image](https://github.com/user-attachments/assets/c5711e32-f7a6-478c-b16c-2447c352e284)
+
+
 # - Steps to run: 
 
 Install Node and the requirements on Windows:
