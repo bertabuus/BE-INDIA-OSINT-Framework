@@ -5,7 +5,42 @@
 - This is one out of many localized OSINT Framework pages that I have been working on for specific countries.
 - This is where I gather and organize all OSINT resources for locale India.
 - Dont take things to serious - its public information after all. 
-- Big thanks goes out to cursor, my mom and all my stalkers. 
+- Big thanks goes out to cursor, my mom and all my stalkers.
+
+# - Steps to run: 
+
+Install Node and the requirements on Windows:
+ 1. winget install OpenJS.NodeJS
+ 2. npm install d3@3 jquery select2 (restart terminal if path is not updated)
+ 3. npm install http-server
+
+Running the damn thing: 
+  1. CD to directory
+  2. npm install
+  3. http-server
+
+Output should look something like this: 
+
+Starting up http-server, serving ./
+
+http-server version: 14.1.1
+
+http-server settings:
+CORS: disabled
+Cache: 3600 seconds
+Connection Timeout: 120 seconds
+Directory Listings: visible
+AutoIndex: visible
+Serve GZIP Files: false
+Serve Brotli Files: false
+Default File Extension: none
+
+Available on:
+  http://10.0.51.249:8080
+  http://192.168.1.40:8080
+  http://192.168.239.1:8080
+  http://192.168.41.1:8080
+  http://127.0.0.1:8080
 
 # - Resources
 
