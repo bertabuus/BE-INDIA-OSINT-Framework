@@ -21,26 +21,7 @@ Running the damn thing:
 
 Output should look something like this: 
 
-Starting up http-server, serving ./
-
-http-server version: 14.1.1
-
-http-server settings:
-CORS: disabled
-Cache: 3600 seconds
-Connection Timeout: 120 seconds
-Directory Listings: visible
-AutoIndex: visible
-Serve GZIP Files: false
-Serve Brotli Files: false
-Default File Extension: none
-
-Available on:
-  http://10.0.51.249:8080
-  http://192.168.1.40:8080
-  http://192.168.239.1:8080
-  http://192.168.41.1:8080
-  http://127.0.0.1:8080
+![image](https://github.com/user-attachments/assets/70614401-bc4e-47e0-9579-936024261a46)
 
 # - Resources
 
