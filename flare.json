@@ -1,0 +1,744 @@
+{
+  "name": "IN OSINT Framework",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Search engines",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google.co.in", 
+          "type": "url",
+          "url": "https://www.google.co.in"
+        },
+        {
+          "name": "Bing India",
+          "type": "url", 
+          "url": "https://www.bing.com/?cc=in"
+        }
+        ,
+        {
+          "name": "Qmamu",
+          "type": "url",
+          "url": "https://qmamu.com"
+        },
+        {
+          "name": "13TABS",
+          "type": "url",
+          "url": "https://13tabs.com"
+        }
+      ]
+    },
+    {
+      "name": "Maps",
+      "type": "folder", 
+      "children": [
+        {
+          "name": "Bhuvan",
+          "type": "url",
+          "url": "https://bhuvan.nrsc.gov.in"
+        },
+        {
+          "name": "Google Maps India",
+          "type": "url",
+          "url": "https://www.google.com/maps/place/India"
+        },
+        {
+          "name": "OpenStreetMap India",
+          "type": "url",
+          "url": "https://www.openstreetmap.org/relation/304716"
+        },
+        {
+          "name": "Survey of India",
+          "type": "url", 
+          "url": "https://surveyofindia.gov.in"
+        },
+        {
+          "name": "Bharat Maps",
+          "type": "url",
+          "url": "https://bharatmaps.gov.in"
+        },
+        {
+          "name": "Village Map",
+          "type": "url",
+          "url": "https://villagemap.in"
+        },
+        {
+          "name": "Maps of India",
+          "type": "url",
+          "url": "https://www.mapsofindia.com"
+        }
+      ]
+    },
+    {
+      "name": "Climate/Weather",
+      "type": "folder",
+      "children": [
+        {
+          "name": "IMD",
+          "type": "url",
+          "url": "https://mausam.imd.gov.in"
+        },
+        {
+          "name": "India Climate Data",
+          "type": "url",
+          "url": "https://en.climate-data.org/asia/india-32/"
+        },
+        {
+          "name": "IMD Weather",
+          "type": "url", 
+          "url": "https://mausam.imd.gov.in/imd_latest/contents/weather.php"
+        },
+        {
+          "name": "IndianClimate.com",
+          "type": "url",
+          "url": "https://www.indianclimate.com"
+        },
+        {
+          "name": "India Meteorological Department",
+          "type": "url",
+          "url": "https://imdpune.gov.in"
+        }
+      ]
+    },
+    {
+      "name": "Transport",
+      "type": "folder",
+      "children": [
+        {
+          "name": "IRCTC",
+          "type": "url",
+          "url": "https://www.irctc.co.in"
+        },
+        {
+          "name": "Vehicle Registration Info",
+          "type": "url",
+          "url": "https://vahan.nic.in"
+        },
+        {
+          "name": "DGCA",
+          "type": "url",
+          "url": "https://dgca.gov.in"
+        },
+        {
+          "name": "Civil Aviation",
+          "type": "url", 
+          "url": "https://civilaviation.gov.in"
+        },
+        {
+          "name": "India Rail Info",
+          "type": "url",
+          "url": "https://indiarailinfo.com"
+        },
+        {
+          "name": "Live Train Status",
+          "type": "url",
+          "url": "https://enquiry.indianrail.gov.in/mntes"
+        },
+        {
+          "name": "Indian Railways Info",
+          "type": "url",
+          "url": "https://www.indianrailways.info"
+        },
+        {
+          "name": "Train Search",
+          "type": "url",
+          "url": "https://erail.in"
+        },
+        {
+          "name": "Vahan Info",
+          "type": "url",
+          "url": "https://parivahan.gov.in/parivahan"
+        },
+        {
+          "name": "Cars24",
+          "type": "url",
+          "url": "https://www.cars24.com"
+        },
+        {
+          "name": "Droomhistory",
+          "type": "url",
+          "url": "https://www.droomhistory.com"
+        }
+      ]
+    },
+    {
+      "name": "Phone Numbers",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Truecaller India",
+          "type": "url",
+          "url": "https://www.truecaller.com"
+        },
+        {
+          "name": "Trace Mobile Number Location",
+          "type": "url",
+          "url": "https://www.tracemobilenumber.in"
+        },
+        {
+          "name": "Phunwa.com",
+          "type": "url",
+          "url": "https://www.phunwa.com"
+        },
+        {
+          "name": "Indiacom",
+          "type": "url", 
+          "url": "https://www.indiacom.com"
+        },
+        {
+          "name": "Numbers Registered With Your Name",
+          "type": "url",
+          "url": "https://trai.gov.in/number-registered-your-name"
+        },
+        {
+          "name": "Block Lost/Stolen Mobile",
+          "type": "url",
+          "url": "https://www.ceir.gov.in"
+        },
+        {
+          "name": "Check IMEI",
+          "type": "url",
+          "url": "https://www.imei.info"
+        }
+      ]
+    },
+    {
+      "name": "Business",
+      "type": "folder",
+      "children": [
+        {
+          "name": "MCA Portal",
+          "type": "url",
+          "url": "https://www.mca.gov.in"
+        },
+        {
+          "name": "Zauba Corp",
+          "type": "url",
+          "url": "https://www.zaubacorp.com"
+        }      
+      ]
+    },
+    {
+      "name": "News",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google News India",
+          "type": "url",
+          "url": "https://news.google.com/news/?ned=in"
+        },
+        {
+            "name": "Indian Cyber Crime News",
+            "type": "url",
+            "url": "https://cybercrime.gov.in/news"
+          },
+          {
+            "name": "Fact Check India",
+            "type": "url", 
+            "url": "https://factcheck.in"
+          },
+          {
+            "name": "The Hindu",
+            "type": "url",
+            "url": "https://www.thehindu.com"
+          },
+          {
+            "name": "India Today",
+            "type": "url",
+            "url": "https://www.indiatoday.in"
+          },
+          {
+            "name": "Indian Express",
+            "type": "url",
+            "url": "https://indianexpress.com"
+          },
+          {
+            "name": "NDTV",
+            "type": "url",
+            "url": "https://www.ndtv.com"
+          },
+          {
+            "name": "News18",
+            "type": "url",
+            "url": "https://www.news18.com"
+          },
+          {
+            "name": "Deccan Chronicle",
+            "type": "url",
+            "url": "https://www.deccanchronicle.com"
+          },
+          {
+            "name": "Firstpost",
+            "type": "url",
+            "url": "https://www.firstpost.com"
+          }
+      ]
+    },
+    {
+      "name": "People Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Electoral Search",
+          "type": "url",
+          "url": "https://electoralsearch.in"
+        },
+        {
+          "name": "Ration Card Search",
+          "type": "url",
+          "url": "https://www.india.gov.in/check-ration-card-status"
+        },
+        {
+          "name": "GST Taxpayer Search",
+          "type": "url", 
+          "url": "https://services.gst.gov.in/services/searchtp"
+        },
+        {
+          "name": "Verify Aadhaar",
+          "type": "url",
+          "url": "https://resident.uidai.gov.in/verify"
+        },
+        {
+          "name": "PM Kisan Beneficiary Status",
+          "type": "url",
+          "url": "https://pmkisan.gov.in/beneficiarystatus.aspx"
+        },
+        {
+          "name": "Government Nodal Officers Directory",
+          "type": "url",
+          "url": "https://www.goidirectory.gov.in"
+        },
+        {
+          "name": "Social Media Grievance Officers",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Facebook",
+              "type": "url",
+              "url": "https://www.facebook.com/help/contact/919439621502159"
+            },
+            {
+              "name": "Twitter",
+              "type": "url", 
+              "url": "https://help.twitter.com/forms/india"
+            },
+            {
+              "name": "WhatsApp",
+              "type": "url",
+              "url": "https://www.whatsapp.com/contact/grievance/in"
+            },
+            {
+              "name": "Instagram",
+              "type": "url",
+              "url": "https://help.instagram.com/contact/1722574621995647"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Criminal Records",
+      "type": "folder",
+      "children": [
+        {
+          "name": "National Crime Records Bureau",
+          "type": "url",
+          "url": "https://ncrb.gov.in"
+        },
+        {
+          "name": "Welcome to National Prison Portal",
+          "type": "url",
+          "url": "https://eprisons.nic.in"
+        },
+        {
+          "name": "Crime-Reports India",
+          "type": "url", 
+          "url": "https://ncrb.gov.in/crime-in-india"
+        },
+        {
+          "name": "Accidents Deaths and Suicides",
+          "type": "url",
+          "url": "https://ncrb.gov.in/en/accidental-deaths-suicides-india-adsi"
+        },
+        {
+          "name": "Prison Statistics India",
+          "type": "url",
+          "url": "https://ncrb.gov.in/en/prison-statistics-india"
+        },
+        {
+          "name": "All State FIR Download",
+          "type": "url",
+          "url": "https://digitalpolice.gov.in/ncr/State_Selection.aspx"
+        },
+        {
+          "name": "Find Police Stations India",
+          "type": "url",
+          "url": "https://digitalpolice.gov.in/policestations.html"
+        }
+      ]
+    },
+    {
+      "name": "Court Records",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Indian Kanoon",
+          "type": "url",
+          "url": "https://indiankanoon.org"
+        },
+        {
+          "name": "E-Courts",
+          "type": "url",
+          "url": "https://ecourts.gov.in"
+        },
+        {
+          "name": "Supreme Court Case Status",
+          "type": "url",
+          "url": "https://main.sci.gov.in/case-status"
+        },
+        {
+          "name": "High Courts Case Status",
+          "type": "url", 
+          "url": "https://highcourtsindia.nic.in"
+        },
+        {
+          "name": "District Courts Case Status",
+          "type": "url",
+          "url": "https://districts.ecourts.gov.in"
+        },
+        {
+          "name": "National Judicial Data Grid",
+          "type": "url",
+          "url": "https://njdg.ecourts.gov.in"
+        },
+        {
+          "name": "Cybercrime Reporting Portal",
+          "type": "url",
+          "url": "https://cybercrime.gov.in"
+        },
+        {
+          "name": "I4C - Report Suspicious Websites",
+          "type": "url",
+          "url": "https://www.cybervolunteer.in"
+        }
+      ]
+    },
+    {
+      "name": "Voter ID and Name Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "National Voters Service Portal",
+          "type": "url",
+          "url": "https://www.nvsp.in"
+        },
+        {
+          "name": "Chief Electoral Officer Website",
+          "type": "url",
+          "url": "https://eci.gov.in/electoral-roll/electoral-roll/"
+        },
+        {
+          "name": "State Electoral Roll Search",
+          "type": "url", 
+          "url": "https://ceoelection.nic.in/SearchInElectoralRoll/"
+        },
+        {
+          "name": "Electoral Search - Form 6",
+          "type": "url",
+          "url": "https://voters.eci.gov.in/"
+        },
+        {
+          "name": "Electoral Roll PDF Downloads",
+          "type": "url",
+          "url": "https://electoralsearch.in/"
+        }
+      ]
+    },
+    {
+      "name": "Missing Persons",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Track Child Portal",
+          "type": "url",
+          "url": "http://trackthemissingchild.gov.in"
+        },
+        {
+          "name": "Missing Persons Report",
+          "type": "url",
+          "url": "https://missingpersonreport.in"
+        },
+        {
+          "name": "Missing Person List",
+          "type": "url",
+          "url": "https://missingpersonlist.in"
+        },
+        {
+          "name": "Missing Persons of India",
+          "type": "url",
+          "url": "https://missingpersonsofindia.in"
+        },
+        {
+          "name": "Missing Persons in India",
+          "type": "url",
+          "url": "https://missingpersonsinindia.in"
+        },
+        {
+          "name": "Missing People India",
+          "type": "url",
+          "url": "https://missingpeopleindia.in"
+        },
+        {
+          "name": "Death Certificate of a Missing Person India",
+          "type": "url",
+          "url": "https://deathcertificateofamissingpersonindia.in"
+        }
+      ]
+    },
+    {
+      "name": "Archives",
+      "type": "folder",
+      "children": [
+        {
+          "name": "National Digital Library",
+          "type": "url",
+          "url": "https://ndl.iitkgp.ac.in"
+        },
+        {
+          "name": "National Archives India",
+          "type": "url",
+          "url": "https://nationalarchives.nic.in"
+        },
+        {
+          "name": "Archives India",
+          "type": "url",
+          "url": "https://archivesindia.gov.in"
+        },
+        {
+          "name": "Abhilekh Patal",
+          "type": "url",
+          "url": "https://www.abhilekh-patal.in"
+        },
+        {
+          "name": "Public Library of India",
+          "type": "url",
+          "url": "https://publiclibraryofindia.in"
+        },
+        {
+          "name": "Indian Family History",
+          "type": "url",
+          "url": "https://indianfamilyhistory.in"
+        },
+        {
+          "name": "India Office Family History Search",
+          "type": "url",
+          "url": "https://indiaofficefamilyhistorysearch.in"
+        }
+      ]
+    },
+    {
+      "name": "Forums",
+      "type": "folder",
+      "children": [
+        {
+          "name": "India Subreddit",
+          "type": "url",
+          "url": "https://www.reddit.com/r/india"
+        },
+        {
+          "name": "Indian Defence Research Wing Forum",
+          "type": "url",
+          "url": "https://defenceforumindia.com"
+        },
+        {
+          "name": "Chanakya Forum",
+          "type": "url",
+          "url": "https://chanakyaforum.com"
+        },
+        {
+          "name": "Strategic Front Forum",
+          "type": "url",
+          "url": "https://strategicfront.org"
+        },
+        {
+          "name": "Defence Forum India",
+          "type": "url",
+          "url": "https://defenceforumindia.com"
+        },
+        {
+          "name": "Bharat Rakshak",
+          "type": "url",
+          "url": "https://forums.bharat-rakshak.com"
+        },
+        {
+          "name": "Defence News (B) India",
+          "type": "url",
+          "url": "https://defencenewsindia.com"
+        },
+        {
+          "name": "India: United We Stand",
+          "type": "url",
+          "url": "https://unitedwestand.in"
+        },
+        {
+          "name": "AskIndia (Reddit)",
+          "type": "url",
+          "url": "https://www.reddit.com/r/AskIndia"
+        },
+        {
+          "name": "DreamDTH Forums",
+          "type": "url",
+          "url": "https://dreamdth.com/community"
+        },
+        {
+          "name": "India Forums",
+          "type": "url",
+          "url": "https://indiaforums.com"
+        },
+        {
+          "name": "Team-BHP",
+          "type": "url",
+          "url": "https://www.team-bhp.com/forum"
+        },
+        {
+          "name": "Mouthshut",
+          "type": "url",
+          "url": "https://www.mouthshut.com"
+        }
+      ]
+    },
+    {
+      "name": "Twitter - X - Updates - OSINT India",
+      "type": "folder",
+      "children": [
+        {
+          "name": "OSINT India Twitter List",
+          "type": "url",
+          "url": "https://x.com/i/lists/OSINT_India"
+        },
+        {
+          "name": "Indian Aerospace Defence News",
+          "type": "url",
+          "url": "https://x.com/IAF_MCC"
+        },
+        {
+          "name": "Indo-Pacific News",
+          "type": "url",
+          "url": "https://x.com/IndoPac_Info"
+        },
+        {
+          "name": "ADG PI",
+          "type": "url",
+          "url": "https://x.com/adgpi"
+        },
+        {
+          "name": "IndianNavy",
+          "type": "url",
+          "url": "https://x.com/indiannavy"
+        },
+        {
+          "name": "Indian Tech & Infra",
+          "type": "url",
+          "url": "https://x.com/IndianTechGuide"
+        },
+        {
+          "name": "Livefist",
+          "type": "url",
+          "url": "https://x.com/livefist"
+        },
+        {
+          "name": "Insightful Geopolitics",
+          "type": "url",
+          "url": "https://x.com/InsightGL"
+        },
+        {
+          "name": "The_China_Chap",
+          "type": "url",
+          "url": "https://x.com/The_China_Chap"
+        },
+        {
+          "name": "WLVN Analysis",
+          "type": "url",
+          "url": "https://x.com/WLVNAnalysis"
+        },
+        {
+          "name": "Bala3047",
+          "type": "url",
+          "url": "https://x.com/Bala3047"
+        },
+        {
+          "name": "Usair",
+          "type": "url",
+          "url": "https://x.com/USAirForce"
+        },
+        {
+          "name": "rizvi",
+          "type": "url",
+          "url": "https://x.com/rizvi"
+        },
+        {
+          "name": "Megh Updates",
+          "type": "url",
+          "url": "https://x.com/MeghUpdates"
+        },
+        {
+          "name": "Osint Updates In",
+          "type": "url",
+          "url": "https://x.com/OsintUpdatesIn"
+        },
+        {
+          "name": "OsintTV",
+          "type": "url",
+          "url": "https://x.com/OsintTV"
+        },
+        {
+          "name": "ResistanceV2",
+          "type": "url",
+          "url": "https://x.com/ResistanceV2"
+        },
+        {
+          "name": "OsintJK",
+          "type": "url",
+          "url": "https://x.com/OsintJK"
+        },
+        {
+          "name": "OsintValley",
+          "type": "url",
+          "url": "https://x.com/OsintValley"
+        },
+        {
+          "name": "Ghongha007",
+          "type": "url",
+          "url": "https://x.com/Ghongha007"
+        },
+        {
+          "name": "OSINT_Insider",
+          "type": "url",
+          "url": "https://x.com/OSINT_Insider"
+        },
+        {
+          "name": "OSINTWA_com",
+          "type": "url",
+          "url": "https://x.com/OSINTWA_com"
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Data.gov.in",
+          "type": "url",
+          "url": "https://data.gov.in"
+        },
+        {
+          "name": "India Post",
+          "type": "url",
+          "url": "https://www.indiapost.gov.in"
+        }
+      ]
+    }
+  ]
+}
